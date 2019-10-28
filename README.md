@@ -25,19 +25,14 @@ Model-based: in this approach, models are developed using different machine lear
  
 Set-up: Anaconda distribution, Python version , running on MacOS Mojave, version 10.14.6.
  
-Technologies used: Spyder 
-                   Jupyter notebook (web based interactive environment) 
-                   
-
+Technologies used: 
+   - Spyder 
+   - Jupyter notebook (web based interactive environment) 
+   - https://hub.gke.mybinder.org/ (to turn Git repo into interactive python notebook.)
 
 
 Work Flow
 
+Please check the EXUS_ML_REPORT.doc for a thorough description of the work-flow process. Also, thorough description of the steps and methodology used can be found on the Book_Recommender.ipynb.
 
-
-
-ipyhnb
-
-Report
-
-
+I hope you enjoy browsing through my python notebook! Thank you for your time!
