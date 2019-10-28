@@ -4,7 +4,7 @@ Introduction
 
 Wikipedia defines recommender systems too narrowly, as “a subclass of information filtering systems that seeks to predict the ‘rating’ or ‘preference’ that a user would give to an item”. Recommender systems are active information filtering systems that personalize the information coming to a user based on his interests, relevance of the information, etc. Recommender systems are used widely for recommending movies, articles, restaurants, places to visit, items to buy, and more. 
 
-Types of recommender systems:;
+Types of recommender systems:
 - correlation based, subset of which is 
     - Collaborative filtering. 
 - Content-based.  
