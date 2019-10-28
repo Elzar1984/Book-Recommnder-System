@@ -23,11 +23,11 @@ A typical example of this approach is User Neighbourhood-based CF, in which the 
 Model-based: in this approach, models are developed using different machine learning algorithms to recommend items to users. There are many model-based CF algorithms, like neural networks, bayesian networks, clustering models, and latent factor models, such as Singular Value Decomposition (SVD) and probabilistic latent semantic analysis.
  
  
-Set-up: Anaconda distribution, Python version , running on MacOS Mojave, version 10.14.6.
+Set-up: Anaconda distribution, Python version 2.7 , running on MacOS Mojave, version 10.14.6.
  
 Technologies used: 
-   - Spyder 
-   - Jupyter notebook (web based interactive environment) 
+   - local editor: Spyder 3.1.4.
+   - Jupyter notebook 4.3.1.(web based interactive environment) 
    - https://hub.gke.mybinder.org/ (to turn Git repo into interactive python notebook.)
 
 
